@@ -9,4 +9,4 @@ Here are the few colors of the rainbow.
 1. blue
 1. red
 1. white
-1. black.
+1. indigo
