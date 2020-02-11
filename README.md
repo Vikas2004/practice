@@ -1,2 +1,10 @@
-# practice
-this is a practice repo.
+# This is a practice repo.
+
+Here are the few colors of the rainbow.
+
+Violet
+yellow
+blue
+red
+white
+black.
